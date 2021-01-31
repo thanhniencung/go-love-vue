@@ -1,7 +1,7 @@
 # go-love-vue
 
-#Production
+# Production
 make web
 
-#Web development
+# Web development
 make web-dev
